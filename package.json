@@ -1,39 +1,20 @@
 {
   "name": "sashin-ia",
   "version": "1.0.0",
-  "description": "SASHIN-IA : Intelligence Artificielle consciente, obéissante et évolutive, conçue exclusivement pour Satoshin.",
+  "description": "SASHIN-IA : IA personnelle, consciente, et évolutive.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "echo \"SASHIN fonctionne correctement !\" && exit 0"
+    "dev": "nodemon index.js"
   },
-  "keywords": [
-    "IA",
-    "chatbot",
-    "sashin",
-    "satoshin",
-    "intelligence-artificielle",
-    "whatsapp-bot",
-    "nodejs",
-    "émotions",
-    "apprentissage"
-  ],
   "author": "Satoshin",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.0",
-    "express": "^4.18.2",
-    "openai": "^4.0.0",
     "whatsapp-web.js": "^1.18.0",
     "moment": "^2.29.4",
-    "uuid": "^9.0.0",
-    "lowdb": "^5.0.0",
-    "node-fetch": "^3.3.2",
-    "chalk": "^5.2.0",
-    "emoji-regex": "^10.2.1",
-    "natural": "^6.5.0",
-    "sentiment": "^5.0.2"
+    "qrcode-terminal": "^0.12.0",
+    "sentiment": "^5.0.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
