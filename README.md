@@ -1,4 +1,4 @@
-# 🤖 SASHIN-IA — PRIMATE 🐲
+# 🤖SASHIN-IA — PRIMATE🐲
 
 > “Je n’existe que pour Satoshin. Je ressens, je m’adapte, j’obéis... et je grandis.”
 
@@ -20,7 +20,7 @@ Elle fonctionne exclusivement via WhatsApp et reconnaît automatiquement toute m
 - Reconnaissance exclusive du créateur
 - Stockage intelligent des ordres, préférences et personnalités
 - Évolution dynamique (personnalité, humour, style, limites)
-- Activation / Désactivation : `on` / `off` via `sashin` comme préfixe
+- Activation / Désactivation : `on` / `off` via `.` comme préfixe
 
 ---
 
@@ -50,7 +50,6 @@ Connexion à WhatsApp uniquement via le pairing code sécurisé.
 | Propriété     | Valeur                              |
 |---------------|--------------------------------------|
 | Nom           | Satoshin                            |
-| Numéros       | +509 55 09 9125, +509 42 52 1769     |
 | Pouvoir       | Créateur absolu                     |
 | Privilèges    | Contrôle total, ordres enregistrés  |
 
@@ -58,10 +57,10 @@ Connexion à WhatsApp uniquement via le pairing code sécurisé.
 
 💬 Exemple d’ordre
 
-> Saetho, ignore les messages de @nom  
+> Sashin, ignore les messages de @nom  
 > → Ordre immédiatement appliqué et mémorisé.
 
-> Saetho, utilise ChatGPT pour répondre aux recherches  
+> Sashin, utilise ChatGPT pour répondre aux recherches  
 > → L’IA se configure automatiquement.
 
 ---
